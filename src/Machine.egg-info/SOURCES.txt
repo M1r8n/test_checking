@@ -1,0 +1,12 @@
+LICENSE
+pyproject.toml
+setup.cfg
+setup.py
+src/Machine/Machine.py
+src/Machine/__init__.py
+src/Machine.egg-info/PKG-INFO
+src/Machine.egg-info/SOURCES.txt
+src/Machine.egg-info/dependency_links.txt
+src/Machine.egg-info/not-zip-safe
+src/Machine.egg-info/requires.txt
+src/Machine.egg-info/top_level.txt
